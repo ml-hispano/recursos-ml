@@ -2,6 +2,8 @@
 
 ### Este documento tiene el objetivo de orintar a las personas que esten interesadas en colaborar en la construcción de la página web
 de **Machine Learning Hispano**. 
+
+
 —-
 **Bienvenido/a** !! a esta nueva comunidad que surge con el fin de juntar a todo aquel apasionado del mundo del *Machine Learning*,
 *Deep Learning*, *Data Science* y similares. El fin es muy sencillo: aprender, compartir y conocernos. Creo que no hace falta definir 
