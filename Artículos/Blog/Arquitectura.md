@@ -1,5 +1,5 @@
 ## Arquitectura de la información machine learning hispano
-===
+
 ### Este documento tiene el objetivo de orintar a las personas que esten interesadas en colaborar en la construcción de la página web
 de **Machine Learning Hispano**. 
 —-
