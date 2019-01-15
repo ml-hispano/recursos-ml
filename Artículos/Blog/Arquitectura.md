@@ -10,7 +10,7 @@ siempre el buen rollo, etc. Lo normal, vamos.
 Una componente importante para construir una buena comunidad es que esta aporte algo a sus componentes, y es por eso que es una 
 buena cultura la de dar tanto como se reciba. Si encuentras un paper interesante o algún recurso que creas puede interesar
 a alguien, ¡Genial! ¿Quieres montar un grupo de estudio para  compartir conocimientos de algún MOOC online? ¡Hazlo! 
-¿Tienes alguna iniciativa para hacer mejorar la comunidad? ¡Proponla! Esto lo construimos entre todos.
+¿Tienes alguna iniciativa para hacer mejorar la comunidad? ¡Proponla! Esto lo construimos entre todos.#####
 —-
 --Si quieren consultar la sintaxis Markdown para editar este contenido pueden entrar [aquí](https://markdown.es/sintaxis-markdown/)
 
